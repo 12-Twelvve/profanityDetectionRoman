@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "Extract Comment",
+  "version": "1.0",
+  "description": "Extract youtube comment",
+  "permissions": ["activeTab"],
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "48": "icon.png"
+  }
+  
+}
